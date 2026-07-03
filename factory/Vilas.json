@@ -1,0 +1,15 @@
+{
+	"name": "Vilas",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "96475fc7-c5b8-412a-a16b-e5c3cd7738ee",
+		"tenantId": "52811ebe-5f1c-40fc-9f6e-c38676190a80"
+	}
+}
